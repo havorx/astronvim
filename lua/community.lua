@@ -21,4 +21,8 @@ return {
   { import = "astrocommunity.editing-support.neogen" },
 
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
+
+  { import = "astrocommunity.pack.sql" },
+
+  { import = "astrocommunity.programming-language-support.rest-nvim" },
 }
